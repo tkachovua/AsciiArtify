@@ -54,7 +54,7 @@
 
 ## Демонстрація
 
-![enter image description here](tkachovua/AsciiArtify/doc/minikube.gif)
+<img alt="asciinema" src="minikube.gif"/>
 
 ## **Висновки**
 Всі три варіанти гарно підходять для локального використання. Пропоную обрати minikube з зручним dashbordom та легкістью розгортання.
