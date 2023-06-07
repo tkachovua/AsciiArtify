@@ -4,4 +4,4 @@
 
 Демонстрація автоматичного відслідковування та синхронізації змін з Git репозиторію.
 
-<img alt="ambassador" src="ambassador.gif"/>
+<img alt="ambassador" src="ambassador.png"/>
